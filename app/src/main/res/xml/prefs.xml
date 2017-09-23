@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+    android:key="consumerKey"
+    android:title="@string/lblConsumerKey"
+    android:summary="@string/lblSummaryConsumerKey"
+    >
+    </EditTextPreference>
+
+
+
+    <EditTextPreference
+        android:key="consumerSecret"
+        android:title="@string/lblConsumerSecret"
+        android:summary="@string/lblSummaryConsumerSecret"
+        >
+    </EditTextPreference>
+
+    <EditTextPreference
+        android:key="accessTokenKey"
+        android:title="@string/accessTokenKey"
+        android:summary="@string/lblSummaryaccessTokenKey"
+        />
+
+    <EditTextPreference
+        android:key="accessTokenSecret"
+        android:title="@string/accessTokenSecret"
+        android:summary="@string/lblSummaryaccessTokenSecret"
+        >
+
+    </EditTextPreference>
+
+    <CheckBoxPreference
+        android:key="autoUpdateStatuses"
+        android:title="@string/lblAutoUpdateStatutes"
+        android:summary="@string/lblSummaryAutoUpdateStatutes"
+        >
+
+    </CheckBoxPreference>
+
+
+
+</PreferenceScreen>

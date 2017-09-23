@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Yamba 2</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hw">Merhaba Dünya İlk Android Actvity</string>
+    <string name="hw2">HW 2</string>
+    <string name="lbl0">0</string>
+    <string name="lbl7">7</string>
+    <string name="lbl8">8</string>
+    <string name="lblStatusUpdate">Status Update</string>
+    <string name="statusHintText">Please enter your 140 - character status</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="lblConsumerKey">Consumer Key</string>
+    <string name="lblSummaryConsumerKey">Please enter twitter consumer key value</string>
+    <string name="lblConsumerSecret">Consumer Secret</string>
+    <string name="lblSummaryConsumerSecret">Please enter twitter consumer secret value</string>
+    <string name="lblAutoUpdateStatutes">Auto Update Statutes</string>
+    <string name="lblSummaryAutoUpdateStatutes">Please check this if you want to update statutes automatically</string>
+    <string name="accessTokenKey">Access token key</string>
+    <string name="lblSummaryaccessTokenKey">Please Accesstoken key</string>
+    <string name="accessTokenSecret">AccessTokenSecret</string>
+    <string name="lblSummaryaccessTokenSecret">Please AccsessTokenSecret</string>
+    <string name="lblPrefs">Preferences</string>
+    <string name="lblStartService">Start Service</string>
+    <string name="lblStopService">Stop Service</string>
+    <string name="lblTimeLineCount">Timeline Row Count</string>
+    <string name="lblTimeLineActivity">TimeLine</string>
+    <string name="lblStatusActivity">Status Activity</string>
+    <string name="lblSendBroadCast">BroadCast Gönder</string>
+
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/lblStatusActivity"
+        android:id="@+id/mItemStatusActivity"
+        android:icon="@android:drawable/ic_media_pause"
+        >
+    </item>
+
+    <item android:title="@string/lblTimeLineActivity"
+        android:id="@+id/mItemTimeLActivityActivity"
+        android:icon="@android:drawable/ic_media_pause"
+        >
+    </item>
+
+
+    <item
+        android:title="@string/lblPrefs"
+        android:id="@+id/mItemPrefs"
+        >
+
+    </item>
+
+    <item android:title="@string/lblStartService"
+        android:id="@+id/mItemToogleService"
+        android:icon="@android:drawable/ic_media_play"
+
+        >
+    </item>
+
+</menu>
